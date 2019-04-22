@@ -1,0 +1,46 @@
+{
+	"name": "emu",
+	"displayName": "Emu",
+	"description": "Emu color theme for VSCode",
+	"version": "1.0.0",
+	"engines": {
+		"vscode": "^1.33.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Emu",
+				"uiTheme": "vs-dark",
+				"path": "./themes/emu.json"
+			}
+		]
+	},
+	"publisher": "rahmanyerli",
+	"author": {
+		"name": "Rahman Yerli"
+	},
+	"license": "MIT",
+	"repository": {
+		"type": "GitHub",
+		"url": "https://github.com/rahmanyerli/emu"
+	},
+	"icon": "images/emu.png",
+	"galleryBanner": {
+		"color": "#1E1E1E",
+		"theme": "dark"
+	},
+	"keywords": [
+		"theme",
+		"vs theme",
+		"code theme",
+		"vscode theme",
+		"dark theme",
+		"vscode, dark theme",
+		"emu",
+		"emu dark theme",
+		"emu dark"
+	]
+}
