@@ -4,6 +4,8 @@
 
 [GitHub Repository](https://github.com/rahmanyerli/emu)
 
+[Other color themes from Rahman Yerli](https://marketplace.visualstudio.com/publishers/rahmanyerli)
+
 
 ![Screen Shot-III](./images/code.png)
 
